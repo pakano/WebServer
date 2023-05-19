@@ -1,5 +1,5 @@
-CFLAGS?=	-Wall -ggdb -W -O
-CC?=		gcc
+CFLAGS ?=	-Wall -ggdb -W -O
+CC=gcc
 LIBS?=
 LDFLAGS?=
 PREFIX?=	/usr/local
